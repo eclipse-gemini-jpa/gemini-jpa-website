@@ -41,28 +41,32 @@
 			All downloads are provided under the terms and conditions of the 
 			<a href="/legal/epl/notice.php">Eclipse Foundation Software User Agreement</a> unless otherwise specified.
 		</p>
-        <h2>Gemini JPA Releases</h2>
+        <h2>Latest Gemini JPA Release</h2>
 		<br/>
-        <h4>Gemini JPA 1.0.0</h4>
-		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
-		</p>
-		<p>
-			<a href="http://download.eclipse.org/gemini/updates/jpa/1.0.0" target="_self">Updates site - http://download.eclipse.org/gemini/updates/jpa/1.0.0</a>
-		</p>
-		<p>
-			Maven repo - http://download.eclipse.org/gemini/mvn
-		</p>
         <h4>Gemini JPA 1.1.0</h4>
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self">Download Zip</a>
 		</p>
 		<p>
-			<a href="http://download.eclipse.org/gemini/updates/jpa/1.1.0" target="_self">Updates site - http://download.eclipse.org/gemini/updates/jpa/1.1.0</a>
+			<a href="http://download.eclipse.org/gemini/updates/jpa/1.1.0" target="_self">Update site - http://download.eclipse.org/gemini/updates/jpa/1.1.0</a>
 		</p>
 		<p>
 			Maven repo - http://download.eclipse.org/gemini/mvn
 		</p>
+
+        <h2>Previous Gemini JPA Releases</h2>
+		<br/>
+	<h4>Gemini JPA 1.0.0</h4>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
+		</p>
+		<p>
+			<a href="http://download.eclipse.org/gemini/updates/jpa/1.0.0" target="_self">Update site - http://download.eclipse.org/gemini/updates/jpa/1.0.0</a>
+		</p>
+		<p>
+			Maven repo - http://download.eclipse.org/gemini/mvn
+		</p>
+<!--
 
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
@@ -75,7 +79,7 @@
         <p>
             Gemini JPA milestone maven repo - http://download.eclipse.org/gemini/jpa/mvn
         </p>
-        <!--
+
         <h4>Milestones of Gemini JPA</h4>
 		<br/>
 		<p>
