@@ -46,7 +46,8 @@
         <h4>Gemini JPA 1.1</h4>
           <br/>
           <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self">
-            <img align="left" src="http://dev.eclipse.org/huge_icons/actions/go-bottom.png" alt="Download" />src="/gemini/jpa/images/go-bottom.png"/>
+            <img align="left" src="http://dev.eclipse.org/huge_icons/actions/go-bottom.png" alt="Download" />
+            <br/>
           <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self"> Download Zip</a> 
              <br/>
 		<p>
