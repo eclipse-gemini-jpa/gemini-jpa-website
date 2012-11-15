@@ -20,10 +20,10 @@
  *******************************************************************************/
 
 	# Begin: page-specific settings.  Change these. 
-	$pageTitle 		= "Gemini JPA Home";
-	$pageKeywords	= "Eclipse, EclipseRT, Gemini, OSGi, JPA, Home";
-	$pageAuthor		= "Mike Keith";
-			
+	$pageTitle      = "Gemini JPA Home";
+	$pageKeywords   = "Eclipse, EclipseRT, Gemini, OSGi, JPA, Home";
+	$pageAuthor     = "Mike Keith";
+
 	ob_start();
 ?>
 	<div id="midcolumn">
@@ -71,11 +71,11 @@
 		</div>
 		<div class="sideitem">
 			<h6>Current Status</h6>
-			<p>The project is tracking for its 1.1 release targeted for Sept 2012.</p>
+			<p>Gemini JPA 1.1 has been released, v1.2 is under development.</p>
 		</div>
 		<div class="sideitem">
 			<h6>New and Noteworthy</h6>
-			<p>Gemini JPA 1.1 RC1 available now!</p>
+			<p>Gemini JPA 1.1 now available!</p>
 		</div>
 		<!-- div class="sideitem">
 			<h6>&lt;h6&gt; tag</h6>

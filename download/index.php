@@ -25,12 +25,12 @@
 	$pageAuthor		= "Mike Keith";
 
 	$milestoneM1 = "1.1.0.M1";
-    $milestoneM2 = "1.1.0.M2";
+	$milestoneM2 = "1.1.0.M2";
 	$milestoneRC1 = "1.1.0.RC1";
 
-	$latestMilestone = "1.1.0.RC1";
+	$latestMilestone = "1.1.0.RELEASE";
 
-	$latestRelease = "1.0.0.RELEASE";
+	$latestRelease = "1.1.0.RELEASE";
 
 	ob_start();
 ?>
@@ -47,15 +47,22 @@
 		<p>
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
 		</p>
-        <h4>P2 Update site</h4>
-        <p>
-            <a href="http://download.eclipse.org/gemini/updates/jpa" target="_self">http://download.eclipse.org/gemini/updates/jpa</a>
-        </p>
-
-        <h4>Maven Repository</h4>
-        <p>
-            http://download.eclipse.org/gemini/mvn
-        </p>
+		<p>
+			<a href="http://download.eclipse.org/gemini/updates/jpa/1.0.0" target="_self">Updates site - http://download.eclipse.org/gemini/updates/jpa/1.0.0</a>
+		</p>
+		<p>
+			Maven repo - http://download.eclipse.org/gemini/mvn
+		</p>
+        <h4>Gemini JPA 1.1.0</h4>
+		<p>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self">Download Zip</a>
+		</p>
+		<p>
+			<a href="http://download.eclipse.org/gemini/updates/jpa/1.1.0" target="_self">Updates site - http://download.eclipse.org/gemini/updates/jpa/1.1.0</a>
+		</p>
+		<p>
+			Maven repo - http://download.eclipse.org/gemini/mvn
+		</p>
 
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
