@@ -43,12 +43,10 @@
 		</p>
         <h2>Latest Gemini JPA Release</h2>
 		<br/>
-        <h4>Gemini JPA 1.1.0</h4>
+        <h4><a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self">Gemini JPA 1.1 - Download Zip</a></h4>
+             <br/>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self">Download Zip</a>
-		</p>
-		<p>
-			<a href="http://download.eclipse.org/gemini/updates/jpa/1.1.0" target="_self">Update site - http://download.eclipse.org/gemini/updates/jpa/1.1.0</a>
+			Update site - http://download.eclipse.org/gemini/updates/jpa/1.1.0
 		</p>
 		<p>
 			Maven repo - http://download.eclipse.org/gemini/mvn
@@ -61,7 +59,7 @@
 			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.0/gemini-jpa-1.0.0.RELEASE.zip" target="_self">Download Zip</a>
 		</p>
 		<p>
-			<a href="http://download.eclipse.org/gemini/updates/jpa/1.0.0" target="_self">Update site - http://download.eclipse.org/gemini/updates/jpa/1.0.0</a>
+			Update site - http://download.eclipse.org/gemini/updates/jpa/1.0.0
 		</p>
 		<p>
 			Maven repo - http://download.eclipse.org/gemini/mvn
