@@ -48,7 +48,7 @@
             <img align="left" src="http://dev.eclipse.org/huge_icons/actions/go-bottom.png" alt="Download" />
             <br/><br/>
           <a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/gemini-jpa-1.1.0.RELEASE.zip" target="_self"> Download Zip</a> 
-             <br/><br/>
+             <br/><br/><br/>
 		<p>
 			Update site - http://download.eclipse.org/gemini/updates/jpa/1.1.0
 		</p>
