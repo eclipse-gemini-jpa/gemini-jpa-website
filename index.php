@@ -51,7 +51,7 @@
 			Join the discussion at the <a href="http://www.eclipse.org/forums/index.php?t=thread&frm_id=153&">forum</a> to 
 			ask questions or find answers from questions that others have asked.
 		</p>
-		<p>
+		<p> 
 			<a href="/projects/project_summary.php?projectid=rt.gemini.jpa">About Gemini JPA</a>
 		</p>
 		
