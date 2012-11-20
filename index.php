@@ -53,7 +53,7 @@
 		</p>
 		<p> 
 			<a href="/projects/project_summary.php?projectid=rt.gemini.jpa">About Gemini JPA</a>
-		</p>
+		</p> 
 		
 	</div>
 
