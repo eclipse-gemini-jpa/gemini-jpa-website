@@ -175,7 +175,7 @@
      - community and ecosystem to understand what will be delivered and when
      - it will be delivered.
     -->
-  <project-plan url="/gemini/jpa/ProjectPlan_1_0.xml" />
+  <project-plan url="/gemini/jpa/ProjectPlan_1_2.xml" />
 
   <!--
      - Each Eclipse project creates (optional) nightly builds and milestone builds,
