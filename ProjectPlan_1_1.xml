@@ -15,7 +15,7 @@
       <milestone date="May 22, 2012" milestone="M1"></milestone>
       <milestone date="Aug 29, 2012" milestone="M2"></milestone>
       <milestone date="Sept 10, 2012" milestone="RC1"></milestone>
-      <milestone date="Sept 17, 2012" milestone="1.1.0"/>
+      <milestone date="Nov 15, 2012" milestone="1.1.0"/>
       <postamble><html:div>The release will assume Equinox 3.7 or any OSGi framework that supports the Core Specification v4.3.</html:div></postamble>
    </release_milestones>
    <target_environments>
