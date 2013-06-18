@@ -24,11 +24,11 @@
 	$pageKeywords	= "Eclipse, EclipseRT, OSGi, JPA, Downloads";
 	$pageAuthor		= "Mike Keith";
 
-	$milestoneM1 = "1.1.0.M1";
-	$milestoneM2 = "1.1.0.M2";
-	$milestoneRC1 = "1.1.0.RC1";
+	$milestoneM1 = "1.2.0.M1";
+	$milestoneM2 = "1.2.0.M2";
+	$milestoneRC1 = "1.2.0.RC1";
 
-	$latestMilestone = "1.1.0.RELEASE";
+	$latestMilestone = "1.2.0.M1";
 
 	$latestRelease = "1.1.0.RELEASE";
 
@@ -69,20 +69,19 @@
 		<p>
 			Maven repo - http://download.eclipse.org/gemini/mvn
 		</p>
-<!--
 
         <h2>Latest Milestone of Gemini JPA: <?=$latestMilestone ?></h2>
 		<br/>
 		<p>
-			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.1/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download Zip</a>
+			<a href="http://www.eclipse.org/downloads/download.php?file=/gemini/jpa/r1.2/milestones/gemini-jpa-<?=$latestMilestone ?>.zip" target="_self">Download Zip</a>
 		</p>
         <p>
             Gemini JPA milestone P2 update site - http://download.eclipse.org/gemini/jpa/updates
         </p>
-        <p>
+<!--        <p>
             Gemini JPA milestone maven repo - http://download.eclipse.org/gemini/jpa/mvn
         </p>
-
+-->
         <h4>Milestones of Gemini JPA</h4>
 		<br/>
 		<p>
