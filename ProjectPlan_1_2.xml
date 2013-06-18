@@ -12,11 +12,11 @@
       <preamble>
          <html:div>A set of milestones and release candidates will provide the functionality before the actual release.</html:div>
       </preamble>
-      <milestone date="Jan 25, 2013" milestone="M1"></milestone>
-      <milestone date="Mar 1, 2013" milestone="M2"></milestone>
-      <milestone date="Apr 12, 2013" milestone="M3"></milestone>
-      <milestone date="May 24, 2013" milestone="RC1"></milestone>
-      <milestone date="June 28, 2013" milestone="1.2.0"/>
+      <milestone date="June 18, 2013" milestone="M1"></milestone>
+      <milestone date="July 5, 2013" milestone="M2"></milestone>
+      <milestone date="July 26, 2013" milestone="M3"></milestone>
+      <milestone date="Aug 17, 2013" milestone="RC1"></milestone>
+      <milestone date="Sept 6, 2013" milestone="1.2.0"/>
       <postamble><html:div>The release will assume Equinox 3.7 or any OSGi framework that supports the Core Specification v4.3 or later.</html:div></postamble>
    </release_milestones>
    <target_environments>
