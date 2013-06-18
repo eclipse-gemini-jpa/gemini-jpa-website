@@ -82,6 +82,7 @@
             Gemini JPA milestone maven repo - http://download.eclipse.org/gemini/jpa/mvn
         </p>
 -->
+<!--
         <h4>Milestones of Gemini JPA</h4>
 		<br/>
 		<p>
